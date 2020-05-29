@@ -30,7 +30,7 @@ class bitflyer extends Exchange {
             ),
             'urls' => array(
                 'logo' => 'https://user-images.githubusercontent.com/1294454/28051642-56154182-660e-11e7-9b0d-6042d1e6edd8.jpg',
-                'api' => 'https://api.bitflyer.jp',
+                'api' => 'https://api.bitflyer.com',
                 'www' => 'https://bitflyer.jp',
                 'doc' => 'https://lightning.bitflyer.com/docs?lang=en',
             ),
